@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>For tution reimbursement HR application</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_333304_hr.hr_approver</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>hr_approver</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-09 20:30:48</sys_created_on>
+        <sys_id>b2ba3c184ff033001b5af9aba310c73f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_333304_hr.hr_approver</sys_name>
+        <sys_package display_value="HR" source="x_333304_hr">a0fbf7044f7033001b5af9aba310c759</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR">a0fbf7044f7033001b5af9aba310c759</sys_scope>
+        <sys_update_name>sys_user_role_b2ba3c184ff033001b5af9aba310c73f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-09 20:35:28</sys_updated_on>
+    </sys_user_role>
+</record_update>

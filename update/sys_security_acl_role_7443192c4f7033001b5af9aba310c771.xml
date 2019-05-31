@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-10 16:58:07</sys_created_on>
+        <sys_id>7443192c4f7033001b5af9aba310c771</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_333304_hr.hr_approver</sys_name>
+        <sys_package display_value="HR" source="x_333304_hr">a0fbf7044f7033001b5af9aba310c759</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR">a0fbf7044f7033001b5af9aba310c759</sys_scope>
+        <sys_security_acl display_value="x_333304_hr_hr.state">e333116c4f7033001b5af9aba310c7e2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7443192c4f7033001b5af9aba310c771</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-10 16:58:07</sys_updated_on>
+        <sys_user_role display_value="x_333304_hr.hr_approver" name="x_333304_hr.hr_approver">b2ba3c184ff033001b5af9aba310c73f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

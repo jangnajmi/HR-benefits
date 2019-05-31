@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysauto_report">
+    <sysauto_report action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <address_list/>
+        <condition/>
+        <conditional>false</conditional>
+        <group_list>af52912c4f7033001b5af9aba310c7d1,f0c851204fb033001b5af9aba310c721</group_list>
+        <include_detail>false</include_detail>
+        <include_with/>
+        <name>Weekly Reimbursement</name>
+        <omit_if_no_records>false</omit_if_no_records>
+        <output_type>PDF-landscape</output_type>
+        <page_height_in_pixels>612</page_height_in_pixels>
+        <page_size>Letter</page_size>
+        <page_width_in_pixels>792</page_width_in_pixels>
+        <report display_value="reimbursement report">6e6de6b84fb033001b5af9aba310c734</report>
+        <report_body><![CDATA[<p>Attached is the weekly reimbursement report for this week.</p>
+<p>&nbsp;</p>
+<p>Regards,</p>
+<p>Management.</p>]]></report_body>
+        <report_title>Weekly Reimbursement Report</report_title>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2019-04-11 18:07:58</run_start>
+        <run_time>1970-01-01 17:00:00</run_time>
+        <run_type>weekly</run_type>
+        <sys_class_name>sysauto_report</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-11 18:11:48</sys_created_on>
+        <sys_id>ed8deab84fb033001b5af9aba310c73b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Weekly Reimbursement</sys_name>
+        <sys_package display_value="HR" source="x_333304_hr">a0fbf7044f7033001b5af9aba310c759</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR">a0fbf7044f7033001b5af9aba310c759</sys_scope>
+        <sys_update_name>sysauto_report_ed8deab84fb033001b5af9aba310c73b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-11 18:11:48</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+        <user_list/>
+        <zip>false</zip>
+    </sysauto_report>
+</record_update>

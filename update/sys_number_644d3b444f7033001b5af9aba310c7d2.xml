@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_333304_hr_hr">x_333304_hr_hr</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>HR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-09 16:00:53</sys_created_on>
+        <sys_id>644d3b444f7033001b5af9aba310c7d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR</sys_name>
+        <sys_package display_value="HR" source="x_333304_hr">a0fbf7044f7033001b5af9aba310c759</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR">a0fbf7044f7033001b5af9aba310c759</sys_scope>
+        <sys_update_name>sys_number_644d3b444f7033001b5af9aba310c7d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-09 16:00:53</sys_updated_on>
+    </sys_number>
+</record_update>

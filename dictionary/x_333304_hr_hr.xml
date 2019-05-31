@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="HR" max_length="40" name="x_333304_hr_hr" sizeclass="10" type="collection">
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Amount Reimbursed" max_length="20" name="u_amount_reimburse" type="price"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Course Cost" mandatory="true" max_length="20" name="u_course_cost" type="price"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Course Grade" mandatory="true" max_length="40" name="u_course_grade" type="string">
+            <choice>
+                <element label="A" sequence="0" value="a"/>
+                <element label="B" sequence="1" value="b"/>
+                <element label="C" sequence="2" value="c"/>
+                <element label="PASS" sequence="3" value="pass"/>
+                <element label="FAIL" sequence="4" value="fail"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Course justification" mandatory="true" max_length="40" name="u_course_justification" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Course Name" mandatory="true" max_length="40" name="u_course_name" type="string"/>
+        <element label="Course title" mandatory="true" max_length="80" name="u_course_title" type="field_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="4000" name="u_description" type="string"/>
+        <element label="Employee" mandatory="true" max_length="32" name="u_employee" reference="sys_user" type="reference"/>
+        <element label="End Date" mandatory="true" max_length="40" name="u_end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_other" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Payment Method" mandatory="true" max_length="40" name="u_payment_method" type="string">
+            <choice>
+                <element label="Cash" sequence="0" value="cash"/>
+                <element label="Check" sequence="1" value="check"/>
+                <element label="Paypal" sequence="2" value="paypal"/>
+                <element label="Credit" sequence="3" value="credit"/>
+                <element label="Other" sequence="4" value="other"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Refund" max_length="20" name="u_refund" type="price"/>
+        <element label="School" max_length="80" name="u_school" type="field_name"/>
+        <element attributes="edge_encryption_enabled=true" label="School Name" max_length="40" name="u_school_name" type="string"/>
+        <element label="Start Date" mandatory="true" max_length="40" name="u_start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Tittle" mandatory="true" max_length="40" name="u_tittle" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_333304_hr.hr_approver" name="x_333304_hr.hr_approver">b2ba3c184ff033001b5af9aba310c73f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-09 20:30:48</sys_created_on>
+        <sys_id>1a0bfcd44ff033001b5af9aba310c7f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b2ba3c184ff033001b5af9aba310c73f</sys_name>
+        <sys_package display_value="HR" source="x_333304_hr">a0fbf7044f7033001b5af9aba310c759</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR">a0fbf7044f7033001b5af9aba310c759</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1a0bfcd44ff033001b5af9aba310c7f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-09 20:30:48</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

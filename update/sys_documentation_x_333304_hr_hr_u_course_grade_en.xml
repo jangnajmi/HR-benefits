@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_course_grade" label="Course Grade" language="en" table="x_333304_hr_hr">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_course_grade</element>
+            <help/>
+            <hint/>
+            <label>Course Grade</label>
+            <language>en</language>
+            <name>x_333304_hr_hr</name>
+            <plural>Course Grades</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-09 16:39:12</sys_created_on>
+            <sys_id>6d0644984f7033001b5af9aba310c7e2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Course Grade</sys_name>
+            <sys_package display_value="HR" source="x_333304_hr">a0fbf7044f7033001b5af9aba310c759</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HR">a0fbf7044f7033001b5af9aba310c759</sys_scope>
+            <sys_update_name>sys_documentation_x_333304_hr_hr_u_course_grade_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-09 19:46:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
